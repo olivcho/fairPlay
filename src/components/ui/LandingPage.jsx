@@ -18,20 +18,16 @@ export function LandingPage() {
                 <h1>How it works</h1>
                 <div className="how-it-works-steps">
                     <ol>
-                        <li>Create a group and get a unique 6-digit room code</li>
-                        <li>Log in using your room code</li>
                         <li>Input player names and emails</li>
-                        <li>Players receive a ranking form via email</li>
-                        <li>After 48 hours, our algorithm analyzes the data:
-                            <ul>
-                                <li>Creates skill charts for each player</li>
-                                <li>Uses PCA analysis to group similar players</li>
-                                <li>Generates balanced teams using K-means clustering</li>
-                            </ul>
-                        </li>
+                        <li>Players receive a peer evaluation ranking form via email</li>
+                        <li>After 48 hours, the form closes and our algorithm analyzes the data</li>
                         <li>Results are automatically sent to all players via email</li>
                     </ol>
                 </div>
+            </div>
+
+            <div className="footer">
+                <p>Made with ❤️ by <a href="https://www.linkedin.com/in/oliver-s-cho/" target="_blank" rel="noopener noreferrer">Oliver Cho</a></p>
             </div>
         </div>
     )

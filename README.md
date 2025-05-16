@@ -1,5 +1,7 @@
 
-<img src="./public/fairPlay.png" alt="fairPlay" width="400" height="400">
+<div align="center">
+  <img src="./public/fairPlay.png" alt="fairPlay" width="400" height="400">
+</div>
 
 # Intended Features
 
