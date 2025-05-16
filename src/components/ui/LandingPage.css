@@ -1,0 +1,59 @@
+.landing-page {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    overflow-y: auto;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.generate-team-button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.how-it-works-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    margin-top: 4rem;
+}
+
+.how-it-works-steps {
+    max-width: 800px;
+    text-align: left;
+}
+
+.how-it-works-steps ol {
+    padding-left: 1.5rem;
+}
+
+.how-it-works-steps li {
+    margin: 1rem 0;
+    line-height: 1.5;
+}
+
+.how-it-works-steps ul {
+    margin: 0.5rem 0 0.5rem 1.5rem;
+    list-style-type: disc;
+}
+
+.how-it-works-steps ul li {
+    margin: 0.5rem 0;
+}

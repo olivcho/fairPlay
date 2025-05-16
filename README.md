@@ -1,7 +1,10 @@
+
+<img src="fairPlay.png" alt="fairPlay" width="400" height="400">
+
 # Intended Features
 
 1) User creates a group and is given a unique 6-digit identifier (like a room code)
-2) User can log in
+2) User can log in w/ room code
 3) User inputs names and emails
 4) Use [Google Form API](https://developers.google.com/workspace/forms/api/reference/rest) to create ranking form
 5) Automatically sent out to all players
