@@ -15,3 +15,9 @@
     - PCA analysis to group players
     - Generate teams with K-means + internal cluster ranking by total skill point sum
 7) Raw data + analysis is sent out via email
+
+
+MVP Plan (5/17):
+- keep it all on the webpage. no google form
+- single person (organizer) ranks everyone
+- outputs optimal teams
